@@ -1,0 +1,1 @@
+/usr/bin/clang++  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Zeta.dir/src/game.cpp.o CMakeFiles/Zeta.dir/src/main.cpp.o CMakeFiles/Zeta.dir/src/order_book.cpp.o CMakeFiles/Zeta.dir/src/server.cpp.o -o Zeta 

@@ -1,0 +1,3 @@
+/Users/paulchan/Desktop/projects/Zeta/build/CMakeFiles/Zeta.dir
+/Users/paulchan/Desktop/projects/Zeta/build/CMakeFiles/edit_cache.dir
+/Users/paulchan/Desktop/projects/Zeta/build/CMakeFiles/rebuild_cache.dir
